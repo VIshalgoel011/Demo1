@@ -12,11 +12,11 @@ public class test {
 		//C:\Program Files (x86)\Google\Chrome\Application
 		
 		
-		System.setProperty("webdriver.chrome.driver", "Mozilla Firefox/firefox.exe");
+		//System.setProperty("webdriver.chrome.driver", "Mozilla Firefox/firefox.exe");
 		
-		WebDriver driver=new FirefoxDriver();
+		//WebDriver driver=new FirefoxDriver();
 		System.out.println("driver opened");
-		driver.quit();
+		//driver.quit();
 		
 	}
 
